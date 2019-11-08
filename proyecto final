@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>The yellow king</title>
+		<base href="http://Severus-12.github.io/assets/img/content/">
+</head>
+<body background="fondo-abstracto-de-la-pendiente-del-pixel-pixeles-que-caen-geom-trico-mosaico-ilustraci-n-vector-146296614.jpg"
+       
+	<header>
+     <img src="REYAMARILLO1.png" width="300" height="200">
+      <nav>
+      <h2> Titulo REY AMARILLO<h2>
+      <ul>
+						<li>MENU</li>
+						<li>Imagen video</li>
+			</ul>
+        </nav>
+				<nav id="menu_barra"></nav>
+		</header>
+			<main>
+					<section id="imagen_animacion"></section>
+					<section id="texto_anime"></section>
+			</main>
+
+</body>
+</html>
