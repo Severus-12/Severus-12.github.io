@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	  <iframe srcdoc="https://es.scribd.com/doc/244028538/Coreano-para-principiantes-pdf"
+	  <iframe src="http://www.galeon.com/mixlylee/korean1.pdf"
     width="560" height="700"></iframe>
 </body>
 </html>
